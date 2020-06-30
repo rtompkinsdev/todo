@@ -1,0 +1,34 @@
+
+
+What are the first 3 things you would do when given this project?
+Design Database / Model, Controller and UI
+
+
+
+
+What more would you need to know / have to begin this project?
+
+
+Do you foresee any pitfalls or traps? If so, what would be needed to resolve those?
+
+
+Given the choice of tech stack, what would you choose for this and why?
+MEAN stack. 
+It offers flexibility and simplicity. Uses one language (JavaScript) for back and frontend. 
+MongoDB’s driveruses typical JavaScript concepts such as objects and async execution using either callback functions or promises.
+MongoDB has fast, scalable key-value stores of NoSQL and functionality of relational databases.
+
+The frontend framework: AngularJS renders JavaScript code in a web browser’s environment to make way for reactive user interface. Unlike static web forms where you have to fill in the form and hit submit, reactive UI reflects a user’s input without refreshing the entire page but only the essential components.
+
+The backend runtime environment: Node.jsm
+Node.js is asynchronous and event-driven. That is, an application doesn’t poll an acknowledgement to a request. It resumes other tasks in the meanwhile. Upon completion, a callback request informs the application and it can start other tasks for optimal resource utilization, which enables many parallel operations while scaling applications. MongoDB can work asynchronously too and, thus, works well with Node.js applications.
+
+
+
+• How would these decisions scale? What are your criteria (metrics) for determining
+scale?
+• What else might be useful to understand or acknowledge that wasn’t outlined or asked
+for in previous statements?
+What barriers have you encountered in the past with your applications?
+
+
